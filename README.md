@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alirezaee
 - 👀 I’m interested in Web Design, Salesforce, Data Analysis with Excel,Power BI, python, Microsoft Office Software, Woocommerce
-- 🌱 I’m currently learning All topic in top
+- 🌱 I’m currently learning All topics in top
 - 💞️ I’m looking to collaborate on Data Analysis, Web design , Salesforce
 - 📫 How to reach me pershiaonline.ir , greenfile.ir , @alirezaee2
 
